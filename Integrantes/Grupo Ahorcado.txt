@@ -1,0 +1,13 @@
+Juan Camilo Sanabria Artunduaga jsanabriaar@unal.edu.co
+Juan Camilo Revelo Erazo        jreveloe@unal.edu.co
+Sergio Andrés Beltrán Huaca     sbeltranh@unal.edu.co
+
+Nombre del Proyecto:
+Juego Interactivo del Ahorcado
+
+Descripción:
+El proyecto consiste en una versión digital clásica del juego del Ahorcado ejecutada desde la consola de comandos. El sistema permitirá al jugador seleccionar el nivel de dificultad (Fácil, Medio, Difícil), determinando así la complejidad y longitud de la palabra a adivinar. La palabra se seleccionará aleatoriamente de un archivo de texto según la dificultad elegida.
+
+El jugador intentará adivinar la palabra letra por letra dentro de un número límite de intentos. A medida que el usuario ingresa letras, la consola actualizará visualmente el estado del monigote (dibujo ASCII), las letras descubiertas y el historial de fallos. Finalmente, el juego almacenará las puntuaciones de los jugadores (que ponderarán la dificultad seleccionada) en un archivo externo para su posterior consulta.
+
+Funcionalidades:
